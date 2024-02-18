@@ -1,6 +1,8 @@
 # GitHub Contribution Challenge 2024
 
-Welcome to the GitHub Contribution Challenge Event! This event is designed to enhance your GitHub skills while also giving you an opportunity to contribute to open source projects and compete with your peers. This README will serve as your roadmap to understand the general working of the GitHub challenge.
+Welcome to the GitHub Contribution Challenge Event at NIET!
+
+This event is designed to enhance your GitHub skills while also giving you an opportunity to contribute to open source projects and compete with your peers. This README will serve as your roadmap to understand the general working of the GitHub challenge.
 
 ## Event Overview
 
@@ -39,8 +41,8 @@ Welcome to the GitHub Contribution Challenge Event! This event is designed to en
 5. Submit separate pull requests (PRs) for each fixed file.
 
 ## Event Timeline
-- **Training Phase:** [45 Minutes]
-- **Bug Fixing Phase:** [75 Minutes]
+- **Training Phase:** 45 Minutes
+- **Bug Fixing Phase:** 75 Minutes
 
 ## Contact Information
 If you have any questions or need assistance during the event, feel free to reach out to the event organizers:
