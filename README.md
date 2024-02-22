@@ -14,7 +14,7 @@ This event is designed to enhance your GitHub skills while also giving you an op
 
 4. **Submission Process**: To participate, each participant must fork the repository, fix the bugs in the designated files, and submit a pull request (PR) for each fix. PRs will not be merged by the author of the repository to avoid conflicts between files.
 
-**NOTE:** If you need help on how to submit refer [here](https://github.com/obiwan04kanobi/Contribution-Challenge-Test/blob/main/README.md)
+**NOTE:** If you need help on how to submit refer [here](https://github.com/obiwan04kanobi/Github-Contribution-Challenge-Test/blob/main/README.md)
 
 ## Repository Structure
 
