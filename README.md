@@ -18,8 +18,8 @@ This event is designed to enhance your GitHub skills while also giving you an op
 
 ## Repository Structure
 
-- The repository will contain separate directories for Python and Java files.
-- Each directory will consist of 10 files, numbered from 1 to 10, representing increasing difficulty levels.
+- The repository contains 5 tasks representing increasing difficulty levels.
+- Each task will consist of 2 files 1 Python & 1 Java. Participants can submit fixes for both the languages or any one of them.
 - Participants are required to fix bugs in these files and submit separate PRs for each fix.
 
 ## Scoring Details
@@ -46,12 +46,15 @@ This event is designed to enhance your GitHub skills while also giving you an op
 - **Training Phase:** 45 Minutes
 - **Bug Fixing Phase:** 75 Minutes
 
+### Special Thanks to ❤️
+[Nitish Kumar](https://github.com/Nitish-kr01) for all the Coding Problems
+
 ## Contact Information
 If you have any questions or need assistance during the event, feel free to reach out to the event organizers:
 
-- [Mayank Pant](mailto:0221csds213@niet.co.in)
-- [Pranay Gupta](mailto:0221csds070@niet.co.in)
-- [Abhishek Kumar](mailto:0221csds002@niet.co.in)
+- [Mayank Pant](https://github.com/obiwan04kanobi)
+- [Pranay Gupta](https://github.com/pranayguptag)
+- [Abhishek Kumar](https://github.com/ABHISHEKKUMAR72)
 
 ## Conclusion
 
