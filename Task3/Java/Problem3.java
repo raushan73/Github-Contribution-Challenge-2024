@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 /**
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -32,16 +34,15 @@ Only one valid answer exists.
 //Given code has time complexity of O(n2) come up with a code that has time complexity less than O(n2).
 //Do not need to change class name and method name.
 
-class Solution {
+class Problem3 {
     public int[] twoSum(int[] nums, int target) {
-        int n = nums.length;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[]{i, j};
-                }
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (map.containsKey(target - nums[i])) {
+                return new int[] { map.get(target - nums[i]), i };
             }
+            map.put(nums[i], i);
         }
-        return new int[]{}; // No solution found
+        return new int[]{-1, -1};
     }
 }
